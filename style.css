@@ -45,3 +45,9 @@ h2 {
   color: #ff69b4; /* hot pink */
   text-shadow: 0 0 6px rgba(255, 105, 180, 0.6);
 }
+
+/* Light blue / water color for the follow-up phrase */
+.sky {
+  color: #87CEFA; /* light sky blue */
+  text-shadow: 0 0 6px rgba(135, 206, 250, 0.5);
+}
