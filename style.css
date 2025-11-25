@@ -39,3 +39,15 @@ h2 {
   0%, 100% { text-shadow: 0 0 20px #ff00ff, 0 0 40px #00ffff, 0 0 60px #ffff00; }
   50% { text-shadow: 0 0 30px #ffff00, 0 0 50px #ff00ff, 0 0 80px #00ffff; }
 }
+
+/* Style for the single word marked pink */
+.pink {
+  color: #ff69b4; /* hot pink */
+  text-shadow: 0 0 6px rgba(255, 105, 180, 0.6);
+}
+
+/* Light blue / water color for the follow-up phrase */
+.sky {
+  color: #87CEFA; /* light sky blue */
+  text-shadow: 0 0 6px rgba(135, 206, 250, 0.5);
+}
