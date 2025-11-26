@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 /* 終末のデザイン */
-=======
-/* 画面の真ん中に文字を表示する例 */
->>>>>>> parent of 0b84e30 (見た目をサイケデリックに)
+
 body {
   margin: 0;
   height: 100vh;
@@ -10,7 +7,6 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
-<<<<<<< HEAD
   background: linear-gradient(135deg, #1a0000, #330000, #000000, #1a0000);
   background-size: 400% 400%;
   animation: apocalypse 10s ease infinite;
@@ -37,9 +33,6 @@ body::before {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
-=======
-  background-color: #f5f5f5;
->>>>>>> parent of 0b84e30 (見た目をサイケデリックに)
 }
 
 @keyframes flicker {
@@ -49,7 +42,6 @@ body::before {
 
 h1 {
   font-size: 48px;
-<<<<<<< HEAD
   color: #ff4500;
   text-shadow: 
     0 0 10px #ff0000, 
@@ -64,14 +56,10 @@ h1 {
   z-index: 1;
   text-transform: uppercase;
   filter: brightness(1.2);
-=======
-  color: #333;
->>>>>>> parent of 0b84e30 (見た目をサイケデリックに)
 }
 
 h2 {
   font-size: 32px;
-<<<<<<< HEAD
   color: #cc3300;
   text-shadow: 
     0 0 8px #ff0000, 
@@ -94,13 +82,4 @@ h2 {
 
 /* 亀裂エフェクト */
 p {
-  color: #ff6633;
-  text-shadow: 
-    0 0 5px #ff0000,
-    1px 1px 0px #000;
-  position: relative;
-  z-index: 1;
-=======
-  color: #333;
->>>>>>> parent of 0b84e30 (見た目をサイケデリックに)
-}
+  color: #ff6
